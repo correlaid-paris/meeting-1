@@ -5,3 +5,5 @@ Topics we discussed:
 2. Hackathons co-organisation in 2019-2020
 3. Open data and open science projects and ideas for projects with NGOs
 4. Collaborations with projects 
+
+More information about open meetings of CorrelAid in 2020 see https://pad.correlaid.org/
