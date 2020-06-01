@@ -8,4 +8,4 @@ Topics we discussed:
 
 More information about open meetings of CorrelAid in 2020 see https://pad.correlaid.org/
 
-If you would like to come to our open meetings, please send us an email: liubov.tupikina at cri-paris.org  
+If you would like to come to our open meetings, please send us an email: liubov.tupikina at cri-paris.org and  katharina.kloppenborg at gmail.com
