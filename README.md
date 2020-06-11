@@ -1,6 +1,6 @@
 # Meeting minutes
 
-## Minutes from Data Dialogue 
+## Minutes from Data Dialogue 2020 
 
 Presentations from Non Profit organisations and CorrelAid team (CorrelAid-Berlin lc is the main organiser).
 Here are projects:
