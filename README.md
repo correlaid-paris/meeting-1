@@ -1,4 +1,16 @@
-These are the minutes for the first CorrelAid meeting on 18 September 2019.
+# Meeting minutes
+
+## Minutes from Data Dialogue 
+
+Presentations from Non Profit organisations and CorrelAid team (CorrelAid-Berlin lc is the main organiser).
+Here are projects:
+Group 1:
+    NPO: Leif (GoVolunteer)
+
+Group 2:
+    NPO: Miro (Amadeu Antonio Stiftung)
+
+## Minutes from the first CorrelAid meeting on 18 September 2019.
 
 Topics we discussed:
 1. Structure of Correlaid correlaid.org: on Github and beyond
