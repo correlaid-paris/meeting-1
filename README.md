@@ -1,6 +1,11 @@
 # Meeting minutes
 
-## Minutes from Data Dialogue 2020 
+## Meeting Cross-chapter NL and France 
+
+We have open calls cross-chapters in CorrelAid. Here is the presentation link
+https://docs.google.com/presentation/d/1vWHINH0Kz_dnJ8yXYm2kzwadVOD4y92XkfoKmQJvL7o/edit#slide=id.g8942e1b227_0_120
+
+## Meeting from Data Dialogue 2020 
 
 Presentations from Non Profit organisations and CorrelAid team (CorrelAid-Berlin lc is the main organiser).
 Here are projects:
