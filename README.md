@@ -3,6 +3,8 @@
 ## Meetings in 2021 
 We do not have current regular chapter meetings however we will have open hackathon together with City Interaction lab and CorrelAid (main HQ) on 12th February 2021.
 
+General conference of CorrelAid https://correlaid.org/en/events/ 2021 November
+
 ## Meeting Cross-chapter NL and France 
 
 We have open calls cross-chapters in CorrelAid. Here is the presentation link
