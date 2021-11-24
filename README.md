@@ -1,6 +1,12 @@
 # Meeting minutes
 
 ## Meetings in 2021 
+### Meeting Nov 24 2021
+https://docs.google.com/document/d/1Lza6ksWWS_8sxMalHr5AE9zFvQZTE4cu6AMgy0Dy78c/edit?usp=sharing
+
+### Meeting Nov 9 2021
+https://docs.google.com/document/d/1mXuHY7SBgOBdXP_J_Q0wFcBmrKIoQlvSp_iLhsubQEU/edit?usp=sharing
+
 We do not have current regular chapter meetings however we will have open hackathon together with City Interaction lab and CorrelAid (main HQ) on 12th February 2021.
 
 General conference of CorrelAid https://correlaid.org/en/events/ 2021 November
